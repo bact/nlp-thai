@@ -1,0 +1,4 @@
+article/
+encyclopedia/
+news/
+novel/
